@@ -1,0 +1,44 @@
+body{
+	background-color:#75FFFF; 	 	
+}
+/*#75FFFF this blue was to bright maybe use else where?*/
+
+#modal1{
+	 margin-top: 5%;
+	 border-radius: 10px;
+	 background-color: #E1EBEB;
+	  overflow:hidden;
+}
+
+#modal-content{
+	width: 100%;
+	height: 100%;
+	background-color: #E1EBEB;
+}
+nav{
+	background-color: #ffa587;
+	color:black;
+}
+
+#main-container{
+	border-radius: 10px; 
+	background-color: #ffa587;
+	width:95%; height: 80%; 
+	margin-top:20px;
+	padding-top: 25px; 
+}
+
+#resizePics{
+	height: 20%;
+	width: 20%;
+}
+
+#name_cost,#facts{
+	background-color:#87e1ff;
+	border-radius: 5px;
+}
+
+
+
+
+
